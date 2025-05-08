@@ -1,0 +1,6 @@
+3:50003:{'username': 'admin', 'password': 'admin5080', 'Balance': 0, 'balance': 8000.0}
+5:50005:{'username': 'admin', 'password': 'admin5080', 'Balance': 0, 'balance': 8000.0}
+7:50007:{'username': 'CUST5557', 'password': '\\z+r', 'Balance': 0, 'balance': 9800.0}
+3:50003:{'username': 'admin', 'password': 'admin5080', 'Balance': 0, 'balance': 8700.0}
+3:50003:{'username': 'admin', 'password': 'admin5080', 'Balance': 0, 'balance': 8000.0}
+3:50003:{'username': 'admin', 'password': 'admin5080', 'Balance': 0, 'balance': 7000.0}
